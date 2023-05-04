@@ -57,8 +57,10 @@
   <a href="https://docs.netspresso.ai/docs/model-launcher">
     <img src="imgs/model_launcher.PNG" width="25%" /></a>
 </div>
+<br>
 
-<table>
+<div width="90%" align="center">
+<table width="90%" align="center">
   <tr>
     <td width="33.3%" align="center">Model Searcher</td>
     <td width="33.3%" align="center">Model Compressor</td>
@@ -70,6 +72,7 @@
     <td width="33.3%" align="center"><a href="https://docs.netspresso.ai/docs/model-launcher">Model Launcher</a> accelerated models, simplified deployment</td>
   </tr>
 </table>
+</div>
 
 ## <div align="center">NetsPresso Compatible Models Zoo</div>
 
