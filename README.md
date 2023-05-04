@@ -58,9 +58,18 @@
     <img src="imgs/model_launcher.PNG" width="25%" /></a>
 </div>
 
-| Model Searcher | Model Compressor | Model Launcher |
-| :-----: | :-----: | :------: |
-| [Model Searcher](https://docs.netspresso.ai/docs/model-searcher) automatically searches optimized models for your target device AutoML | [Model Compressor](https://docs.netspresso.ai/docs/model-compressor) compresses models for better computational efficiency | [Model Launcher](https://docs.netspresso.ai/docs/model-launcher) accelerated models, simplified deployment |
+<table>
+  <tr>
+    <td width="33.3%" align="center">Model Searcher</td>
+    <td width="33.3%" align="center">Model Compressor</td>
+    <td width="33.3%" align="center">Model Launcher</td>
+  </tr>
+  <tr>
+    <td width="33.3%" align="center"><a href="https://docs.netspresso.ai/docs/model-searcher">Model Searcher</a> automatically searches optimized models for your target device AutoML</td>
+    <td width="33.3%" align="center"><a href="https://docs.netspresso.ai/docs/model-compressor">Model Compressor</a> compresses models for better computational efficiency</td>
+    <td width="33.3%" align="center"><a href="https://docs.netspresso.ai/docs/model-launcher">Model Launcher</a> accelerated models, simplified deployment</td>
+  </tr>
+</table>
 
 ## <div align="center">NetsPresso Compatible Models Zoo</div>
 
