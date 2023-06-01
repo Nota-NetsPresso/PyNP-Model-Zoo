@@ -81,21 +81,21 @@ Do you want to try compressing the SOTA model through NetsPresso without any mod
 <details open>
   <summary>Image Classification</summary>
   
-- [pytorch-cifar-models_nota](https://github.com/Nota-NetsPresso/pytorch-models_nota)
+- [PyTorch-CIFAR-Models_Nota](https://github.com/Nota-NetsPresso/pytorch-cifar-models_nota)
   
 </details>
 
 <details open>
   <summary>Object Detection</summary>
   
-- [YOLOv5_Nota](https://github.com/Nota-NetsPresso/yolov5_nota)
+- [YOLOv5_nota](https://github.com/Nota-NetsPresso/yolov5_nota)
   
 </details>
 
 <details open>
   <summary>Semantic Segmentation</summary>
   
-- [PIDNet_Nota](https://github.com/Nota-NetsPresso/PIDNet_nota)
+- [PIDNet_ nota](https://github.com/Nota-NetsPresso/PIDNet_nota)
   
 </details>
 
