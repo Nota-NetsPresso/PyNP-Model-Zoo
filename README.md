@@ -79,20 +79,24 @@
 Do you want to try compressing the SOTA model through NetsPresso without any modifications? If so, you can easily experience it through our NetsPresso compatible repo RIGHT NOW!
 
 <details open>
-  <summary>YOLO Series</summary>
-
-- [YOLOv5_Nota](https://github.com/Nota-NetsPresso/yolov5_nota)
-- [YOLOv7_Nota](https://github.com/Nota-NetsPresso/yolov7_nota)
-- [YOLOX_Nota](https://github.com/Nota-NetsPresso/yolox_nota)
-
+  <summary>Image Classification</summary>
+  
+- [pytorch-cifar-models_nota](https://github.com/Nota-NetsPresso/pytorch-models_nota)
+  
 </details>
 
 <details open>
-  <summary>Others</summary>
+  <summary>Object Detection</summary>
   
-- [fcn_resnet50_Nota](https://github.com/Nota-NetsPresso/fcn_resnet50_nota)
-- [pytorch-cifar100_Nota](https://github.com/Nota-NetsPresso/pytorch-cifar100_nota)
+- [YOLOv5_Nota](https://github.com/Nota-NetsPresso/yolov5_nota)
+  
+</details>
 
+<details open>
+  <summary>Semantic Segmentation</summary>
+  
+- [PIDNet_Nota](https://github.com/Nota-NetsPresso/PIDNet_nota)
+  
 </details>
 
 ## <div align="center">NetsPresso Model Compressor Best Practice</div>
