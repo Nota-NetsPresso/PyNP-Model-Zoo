@@ -22,19 +22,44 @@
 
   <div align="center">
     <a href="https://github.com/Nota-NetsPresso" style="text-decoration:none;">
-      <img src="imgs/common/github.png" width="3%" alt="" /></a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="imgs/common/github_white.png">
+        <source media="(prefers-color-scheme: light)" srcset="imgs/common/github.png">
+        <img alt="github" src="imgs/common/github.png" width="3%">
+      </picture>
+    </a>
     <img src="imgs/common/logo-transparent.png" width="3%" alt="" />
     <a href="https://www.facebook.com/NotaAI" style="text-decoration:none;">
-      <img src="imgs/common/facebook.png" width="3%" alt="" /></a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="imgs/common/facebook_white.png">
+        <source media="(prefers-color-scheme: light)" srcset="imgs/common/facebook.png">
+        <img alt="facebook" src="imgs/common/facebook.png" width="3%">
+      </picture>
+    </a>
     <img src="imgs/common/logo-transparent.png" width="3%" alt="" />
     <a href="https://twitter.com/nota_ai" style="text-decoration:none;">
-      <img src="imgs/common/twitter.png" width="3%" alt="" /></a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="imgs/common/twitter_white.png">
+        <source media="(prefers-color-scheme: light)" srcset="imgs/common/twitter.png">
+        <img alt="twitter" src="imgs/common/twitter.png" width="3%">
+      </picture>
+    </a>
     <img src="imgs/common/logo-transparent.png" width="3%" alt="" />
     <a href="https://www.youtube.com/channel/UCeewYFAqb2EqwEXZCfH9DVQ" style="text-decoration:none;">
-      <img src="imgs/common/youtube.png" width="3%" alt="" /></a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="imgs/common/youtube_white.png">
+        <source media="(prefers-color-scheme: light)" srcset="imgs/common/youtube.png">
+        <img alt="youtube" src="imgs/common/youtube.png" width="3%">
+      </picture>
+    </a>
     <img src="imgs/common/logo-transparent.png" width="3%" alt="" />
     <a href="https://www.linkedin.com/company/nota-incorporated" style="text-decoration:none;">
-      <img src="imgs/common/linkedin.png" width="3%" alt="" /></a>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="imgs/common/linkedin_white.png">
+        <source media="(prefers-color-scheme: light)" srcset="imgs/common/linkedin.png">
+        <img alt="youtube" src="imgs/common/linkedin.png" width="3%">
+      </picture>
+    </a>
   </div>
 </div>
 <br>
