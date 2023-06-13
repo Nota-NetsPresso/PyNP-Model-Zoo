@@ -102,17 +102,18 @@ Or you can also do it via email(contact@nota.ai) or phone(+82 2-555-8659)!
 <br>
 <div align="center">
   <a href="https://github.com/Nota-NetsPresso" style="text-decoration:none;">
-    <img src="imgs/github.png" width="3%" alt="" /></a>
-  <img src="imgs/logo-transparent.png" width="3%" alt="" />
+    <img src="https://github.com/Nota-NetsPresso/NetsPresso-Compatible-Models/blob/main/imgs/common/github.png" width="3%" alt="" /></a>
+  <img src="https://github.com/Nota-NetsPresso/NetsPresso-Compatible-Models/blob/main/imgs/common/logo-transparent.png" width="3%" alt="" />
   <a href="https://www.facebook.com/NotaAI" style="text-decoration:none;">
-    <img src="imgs/facebook.png" width="3%" alt="" /></a>
-  <img src="imgs/logo-transparent.png" width="3%" alt="" />
+    <img src="https://github.com/Nota-NetsPresso/NetsPresso-Compatible-Models/blob/main/imgs/common/facebook.png" width="3%" alt="" /></a>
+  <img src="https://github.com/Nota-NetsPresso/NetsPresso-Compatible-Models/blob/main/imgs/common/logo-transparent.png" width="3%" alt="" />
   <a href="https://twitter.com/nota_ai" style="text-decoration:none;">
-    <img src="imgs/twitter.png" width="3%" alt="" /></a>
-  <img src="imgs/logo-transparent.png" width="3%" alt="" />
+    <img src="https://github.com/Nota-NetsPresso/NetsPresso-Compatible-Models/blob/main/imgs/common/twitter.png" width="3%" alt="" /></a>
+  <img src="https://github.com/Nota-NetsPresso/NetsPresso-Compatible-Models/blob/main/imgs/common/logo-transparent.png" width="3%" alt="" />
   <a href="https://www.youtube.com/channel/UCeewYFAqb2EqwEXZCfH9DVQ" style="text-decoration:none;">
-    <img src="imgs/youtube.png" width="3%" alt="" /></a>
-  <img src="imgs/logo-transparent.png" width="3%" alt="" />
+    <img src="https://github.com/Nota-NetsPresso/NetsPresso-Compatible-Models/blob/main/imgs/common/youtube.png" width="3%" alt="" /></a>
+  <img src="https://github.com/Nota-NetsPresso/NetsPresso-Compatible-Models/blob/main/imgs/common/logo-transparent.png" width="3%" alt="" />
   <a href="https://www.linkedin.com/company/nota-incorporated" style="text-decoration:none;">
-    <img src="imgs/linkedin.png" width="3%" alt="" /></a>
+    <img src="https://github.com/Nota-NetsPresso/NetsPresso-Compatible-Models/blob/main/imgs/common/linkedin.png" width="3%" alt="" /></a>
 </div>
+
