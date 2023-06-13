@@ -64,8 +64,6 @@
 </div>
 <br>
 
-## <div align="center">PyNetsPresso workflow</div>
-
 <br>
 <a align="center" href="https://docs.netspresso.ai/docs/netspresso-is" target="_blank">
 <img width="100%" src="imgs/banner/workflow_banner.png"></a>
