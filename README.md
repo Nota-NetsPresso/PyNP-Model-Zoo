@@ -9,7 +9,7 @@
   <div>
     <a href="https://netspresso.ai/"><img src="https://img.shields.io/badge/NetsPresso-Open in Website-1BD2EB?style=flat&link=https://netspresso.ai/"/></a>
     <a href="https://www.tensorflow.org/install/pip"><img src="https://img.shields.io/badge/TensorFlow-2.2.x ~ 2.5.x.-FF6F00?style=flat&logo=tensorflow&logoColor=#FF6F00&link=https://www.tensorflow.org/install/pip"/></a>
-    <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch->= 1.11.x.-EE4C2C?style=flat&logo=pytorch&logoColor=#EE4C2C"/></a>
+    <a href="https://pytorch.org/"><img src="https://img.shields.io/badge/PyTorch-1.11.x ~ 1.13.x.-EE4C2C?style=flat&logo=pytorch&logoColor=#EE4C2C"/></a>
     <br>
     <a href="https://github.com/Nota-NetsPresso/NetsPresso-Model-Compressor-ModelZoo"><img src="https://img.shields.io/badge/ModelZoo-Open in Github-181717?style=flat&logo=github&logoColor=#181717"/></a>
     <a href="https://github.com/Nota-NetsPresso/NetsPresso-Model-Compressor-ModelZoo/tree/main/best_practices"><img src="https://img.shields.io/badge/Best Practice-Open in Colab-F9AB00?style=flat&logo=googlecolab&logoColor=#F9AB00"/></a>
@@ -81,7 +81,7 @@
     <td width="70%" align="center">Compress and optimize the user’s pre-trained model.</td>
   </tr>
   <tr>
-    <td width="30%" align="center">np.launcher</td>
+    <td width="30%" align="center">np.launcher (to be released)</td>
     <td width="70%" align="center">Convert AI models to run efficiently on the desired hardware and provide easy installation for seamless usage of the converted AI models.</td>
   </tr>
 </table>
