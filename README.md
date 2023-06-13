@@ -1,6 +1,6 @@
 <div align="center">
   <p>
-    <a align="center" href="https://netspresso.ai/" target="_blank">
+    <a align="center" href="https://py.netspresso.ai//" target="_blank">
       <img width="100%" src="imgs/banner/pynp_main.png"></a>
   </p>
 
@@ -65,10 +65,8 @@
 <br>
 
 <br>
-<a align="center" href="https://docs.netspresso.ai/docs/netspresso-is" target="_blank">
+<a align="center">
 <img width="100%" src="imgs/banner/workflow_banner.png"></a>
-<br>
-<br>
 
 <div width="90%" align="center">
 <table width="90%" align="center">
@@ -86,6 +84,7 @@
   </tr>
 </table>
 </div>
+A NetsPresso account is required to use the NetsPresso Python Package. If you don't have a NetsPresso account, please sign up first. You can sign up <a href="https://netspresso.ai/signup?redirection_link=https://py.netspresso.ai&utm_source=git&utm_medium=page&utm_campaign=py_launch" target="_blank">here</a>.
 
 ## <div align="center">NetsPresso Compatible Models Zoo</div>
 
