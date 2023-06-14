@@ -4,7 +4,7 @@
 <img width="100%" src="imgs/banner/pynp_main.png"></a>
 </p>
 <a href="https://github.com/Nota-NetsPresso/pytorch-cifar-models_nota"> PyTorch-CIFAR-Models</a>
-    | <a href="https://github.com/Nota-NetsPresso/yolov5_notaYOLOv5_Nota"> YOLOv5 </a> 
+    | <a href="https://github.com/Nota-NetsPresso/yolov5_nota"> YOLOv5 </a> 
     | <a href="https://github.com/Nota-NetsPresso/PIDNet_nota"> PIDNet </a>     
 <br>
     </br>
