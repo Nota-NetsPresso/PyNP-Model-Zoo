@@ -27,7 +27,7 @@ PyNetsPresso resolves AI-related constraints in business use cases and enables c
 Easily compress various models with our resources. Please browse the <a href="https://nota-netspresso.github.io/netspresso-python-docs/build/html/index.html">Docs</a> for details, and join our <a href="https://github.com/orgs/Nota-NetsPresso/discussions">Discussion Forum</a> for providing feedback or sharing your use cases.
 <br>
 
-To get started with the NetsPresso Python package, you will need to sign up either at <a href="https://netspresso.ai" target="_blank"> NetsPresso</a> or <a href="https://py.netspresso.ai/?utm_source=git&utm_medium=page&utm_campaign=py_launch" target="_blank"> PyNetsPresso.</a>
+To get started with the NetsPresso Python package, you will need to sign up either at <a href="https://netspresso.ai?utm_source=git&utm_medium=text_np&utm_campaign=py_launch" target="_blank"> NetsPresso</a> or <a href="https://py.netspresso.ai/?utm_source=git&utm_medium=text_py&utm_campaign=py_launch" target="_blank"> PyNetsPresso.</a>
 <br>
     <br>
 
