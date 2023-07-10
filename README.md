@@ -3,9 +3,10 @@
 <a align="center" href="https://py.netspresso.ai/?utm_source=git&utm_medium=text_py&utm_campaign=py_launch" target="_blank">
 <img width="100%" src="imgs/banner/pynp_main.png"></a>
 </p>
-<a href="https://github.com/Nota-NetsPresso/pytorch-cifar-models_nota"> PyTorch-CIFAR-Models</a>
+    <a href="https://github.com/Nota-NetsPresso/ultralytics_nota"> YOLOv8 </a> 
     | <a href="https://github.com/Nota-NetsPresso/yolov5_nota"> YOLOv5 </a> 
     | <a href="https://github.com/Nota-NetsPresso/PIDNet_nota"> PIDNet </a>     
+    | <a href="https://github.com/Nota-NetsPresso/pytorch-cifar-models_nota"> PyTorch-CIFAR-Models</a>
 <br>
     </br>
 
@@ -113,6 +114,8 @@ To get started with the NetsPresso Python package, you will need to sign up eith
 
 <details open>
 <summary>Object Detection</summary>
+    
+[YOLOv8_Nota](https://github.com/Nota-NetsPresso/ultralytics_nota) <br>
 
 [YOLOv5_Nota](https://github.com/Nota-NetsPresso/yolov5_nota)
 
