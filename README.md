@@ -114,8 +114,6 @@ To get started with the NetsPresso Python package, you will need to sign up eith
 
 <details open>
 <summary>Object Detection</summary>
-    
-[YOLOv8_Nota](https://github.com/Nota-NetsPresso/ultralytics_nota) <br>
 
 [YOLOv5_Nota](https://github.com/Nota-NetsPresso/yolov5_nota)
 
@@ -125,6 +123,13 @@ To get started with the NetsPresso Python package, you will need to sign up eith
 <summary>Semantic Segmentation</summary>
 
 [PIDNet_Nota](https://github.com/Nota-NetsPresso/PIDNet_nota)
+
+</details>
+
+<details open>
+<summary>Pose Estimation</summary>
+    
+[YOLOv8_Nota](https://github.com/Nota-NetsPresso/ultralytics_nota)
 
 </details></td>
 <td width="40%" align="center">Build and train models.</td>
