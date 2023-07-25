@@ -3,7 +3,8 @@
 <a align="center" href="https://py.netspresso.ai/?utm_source=git&utm_medium=text_py&utm_campaign=py_launch" target="_blank">
 <img width="100%" src="imgs/banner/pynp_main.png"></a>
 </p>
-    <a href="https://github.com/Nota-NetsPresso/ultralytics_nota"> YOLOv8 </a> 
+    <a href="https://github.com/Nota-NetsPresso/yolox_nota"> YOLOX </a>
+    | <a href="https://github.com/Nota-NetsPresso/ultralytics_nota"> YOLOv8 </a> 
     | <a href="https://github.com/Nota-NetsPresso/yolov5_nota"> YOLOv5 </a> 
     | <a href="https://github.com/Nota-NetsPresso/PIDNet_nota"> PIDNet </a>     
     | <a href="https://github.com/Nota-NetsPresso/pytorch-cifar-models_nota"> PyTorch-CIFAR-Models</a>
@@ -108,28 +109,29 @@ To get started with the NetsPresso Python package, you will need to sign up eith
 <summary>Image Classification</summary>
 
 
-[PyTorch-CIFAR-Models_Nota](https://github.com/Nota-NetsPresso/pytorch-cifar-models_nota)
+[PyTorch-CIFAR-Models](https://github.com/Nota-NetsPresso/pytorch-cifar-models_nota)
 
 </details>
 
 <details open>
 <summary>Object Detection</summary>
 
-[YOLOv5_Nota](https://github.com/Nota-NetsPresso/yolov5_nota)
+[YOLOX](https://github.com/Nota-NetsPresso/yolox_nota) <br>
+[YOLOv5](https://github.com/Nota-NetsPresso/yolov5_nota)
 
 </details>
 
 <details open>
 <summary>Semantic Segmentation</summary>
 
-[PIDNet_Nota](https://github.com/Nota-NetsPresso/PIDNet_nota)
+[PIDNet](https://github.com/Nota-NetsPresso/PIDNet_nota)
 
 </details>
 
 <details open>
 <summary>Pose Estimation</summary>
     
-[YOLOv8_Nota](https://github.com/Nota-NetsPresso/ultralytics_nota)
+[YOLOv8](https://github.com/Nota-NetsPresso/ultralytics_nota)
 
 </details></td>
 <td width="40%" align="center">Build and train models.</td>
@@ -158,6 +160,7 @@ If you want to experience Model Compressor online without any installation, plea
 <br>
     <br>
    
+
 
 
 
