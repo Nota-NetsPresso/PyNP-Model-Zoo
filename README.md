@@ -145,8 +145,7 @@ To get started with the NetsPresso Python package, you will need to sign up eith
 </tr>
 <tr>
 <td width="30%" align="center">Convert</td>
-<td width="30%" align="center">np.launcher 
-    <br>(to be released)</td>
+<td width="30%" align="center">np.launcher</td>
 <td width="40%" align="center">Convert AI models to run efficiently on the desired hardware and provide easy installation for seamless usage of the converted AI models.</td>
 </tr>
 </table>
